@@ -2,6 +2,7 @@
 
 > A [gigs](https://github.com/alebelcor/gigs) adapter for [Remote OK](https://remoteok.io)
 
+[![npm version](https://img.shields.io/npm/v/gigs-adapter-remoteok.svg)](https://npmjs.org/package/gigs-adapter-remoteok)
 [![Build Status](https://img.shields.io/travis/alebelcor/gigs-adapter-remoteok/master.svg)](https://travis-ci.org/alebelcor/gigs-adapter-remoteok)
 [![Test coverage](https://img.shields.io/coveralls/alebelcor/gigs-adapter-remoteok.svg)](https://coveralls.io/github/alebelcor/gigs-adapter-remoteok)
 
