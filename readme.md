@@ -3,6 +3,7 @@
 > A [gigs](https://github.com/alebelcor/gigs) adapter for [Remote OK](https://remoteok.io)
 
 [![Build Status](https://img.shields.io/travis/alebelcor/gigs-adapter-remoteok/master.svg)](https://travis-ci.org/alebelcor/gigs-adapter-remoteok)
+[![Test coverage](https://img.shields.io/coveralls/alebelcor/gigs-adapter-remoteok.svg)](https://coveralls.io/github/alebelcor/gigs-adapter-remoteok)
 
 ## Install
 
